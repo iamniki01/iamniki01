@@ -1,4 +1,4 @@
-- 👋 Hi! [Visitor Count](https://profile-counter.glitch.me/iamniki01/count.svg), I’m Nikhil Gowda Shivaswamy
+- 👋 Hi! [Visitors Count](https://profile-counter.glitch.me/iamniki01/count.svg), I’m Nikhil Gowda Shivaswamy
 - 🔭 I’m currently working as Software Development for earth Observation 
 - 👀 I’m interested in Aerospace and Aviation.
 😐 I have a love/hate relationship with Programming
