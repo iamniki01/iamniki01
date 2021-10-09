@@ -7,7 +7,7 @@
 💬 Ask me about anything, I am happy to help
 😄 Pronouns: Coder, Leader and Kind Hearted
 💡 Occasionaly I do participate in Hackathons
-- 📫 How to reach me :left_speech_bubble:(https://www.linkedin.com/in/nikhil-gowda-shivaswamy-815238b1/)
+- 📫 How to reach me [:left_speech_bubble:](https://www.linkedin.com/in/nikhil-gowda-shivaswamy-815238b1/)
 
 <!---
 iamniki01/iamniki01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
