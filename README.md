@@ -1,5 +1,5 @@
 - 👋 Hi! <img src="https://profile-counter.glitch.me/iamniki01/count.svg" width=10% height=10%>, I’m Nikhil Gowda Shivaswamy
-- 🔭 I’m currently working as Software Development for earth Observation at [GMV](https://www.gmv.com/) 
+- 🔭 I’m currently working as Software Development at [GMV](https://www.gmv.com/) 
 - 👀 I’m interested in Aerospace and Aviation.
 - 😐 I have a love/hate relationship with Programming
 - 🌱 I’m currently Working with tech DevOps, C++ 17, Python, REST.
